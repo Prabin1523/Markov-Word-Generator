@@ -10,6 +10,7 @@ namespace Markov.Text
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
